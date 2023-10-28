@@ -1,12 +1,11 @@
-
-//write code for print hello 
- 
- #include<stdio.h> 
- int main () 
- { 
-     printf("Hello world!!"); 
-     return 0; 
- }
+/01-write code for print hello
+//solution:-
+#include<stdio.h>
+int main ()
+{
+    printf("Hello world!!");
+    return 0;
+}
  
  
  
